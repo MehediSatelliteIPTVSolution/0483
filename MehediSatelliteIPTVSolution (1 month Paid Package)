@@ -140,7 +140,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8?@IPTVSoltuion
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/126098
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="BANGLA ENT.",Star Jalsha
-http://103.211.185.98:8082/30/index.m3u8?token=f0d2a7f97879c1fe60c41ead5d6631674ad09c44-740415bb799e1c360fe85d3f80122959-1600761929-1600751129&remote=103.143.35.251 ?@IPTVSoltuion 
+http://103.211.185.98:8082/30/index.m3u8 ?@IPTVSoltuion 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8?@IPTVSoltuion
