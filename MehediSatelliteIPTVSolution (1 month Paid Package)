@@ -261,6 +261,9 @@ http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1
 http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies
+http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA CINEMA",Jalsha Movies HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8?@IPTVSoltuion
 
