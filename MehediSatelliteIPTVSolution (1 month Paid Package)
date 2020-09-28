@@ -2,6 +2,7 @@
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8?@IPTVSolution 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA",BTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/19.m3u8?@IPTVSolution
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?token=IPTVSolution
@@ -154,6 +155,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8?@IPTVSoltuion
 http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="BANGLA ENT.",Zee Bangla HD
+#EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="BANGLA ENT.",Zee Bangla HD
@@ -301,6 +303,7 @@ http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
 http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6510?token=SRJYAhFRRlgVVFFXVQcDCARWX1AEBAVWUFEGUVNWVwcEBAJQWlhSBFNBHkYSRhRUUFhmW1UWXgIGAlJIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoGUVwCUlRXHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIES",Sony Max HD
+#EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX2
@@ -580,6 +583,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8?@IPTVSoltuion
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
+#EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/75.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",MTV Beats
@@ -619,6 +623,7 @@ http://45.249.187.238:8081/hls/live0.m3u8
 http://zer0live.hjkm.info:11990/neptune/disneychannelhindi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="Kids",Disney XD
+#EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",Cartoon Network
@@ -632,6 +637,7 @@ http://45.249.187.238:8081/hls/new14.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nickelodeon 
+#EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Nick Sonic Bangla
@@ -740,6 +746,7 @@ http://103.49.168.172:8081/ebox/in_animalplanet_hd/chunks.m3u8
 http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",BBC Earth
+#EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
 
 #EXTINF:-1 group-title="Documentary",BBC Lifestyle 
@@ -962,6 +969,7 @@ http://103.49.168.172:8081/ebox/espn/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Sports",D sports
+#EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
@@ -1007,6 +1015,7 @@ https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x8JJ8X.png" group-title="Sports", Euro Sports 
+#EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/48.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x8JJ8X.png" group-title="Sports", Euro Sports 
