@@ -677,6 +677,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8?@IPTVSoltuion
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w168363901.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",SONY YAY
+http://198.255.87.59:8080/INDIA_HINDI/SONY_YAY/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8?@IPTVSolution
 
@@ -759,6 +760,7 @@ http://103.49.168.172:8081/ebox/in_animalplanet_hd/chunks.m3u8
 http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Documentary",BBC Earth
+http://198.255.87.59:8080/INDIA_ENGLISH/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=IPTVSolution 
 #EXTINF:-1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
 
