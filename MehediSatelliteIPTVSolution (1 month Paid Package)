@@ -803,7 +803,7 @@ http://103.214.202.218:8081/live/channel24/playlist.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/16.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="NEWS",Independent FHD
-http://45.249.187.238:8081/hls/hdmi4.m3u8
+http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1
 http://172.20.1.1:8081/live/independent/playlist.m3u8
