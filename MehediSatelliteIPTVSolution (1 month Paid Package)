@@ -52,7 +52,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8?@IPTVSoltuion
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
-
+http://103.214.202.218:8081/live/banglavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 http://45.249.187.238:8081/hls/new6.m3u8?@IPTVSoltuion
@@ -65,7 +65,7 @@ http://45.249.187.238:8081/hls/new6.m3u8?@IPTVSoltuion
 http://iptv.kitv.live:1935/live/Shari/MTV-P/18.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
-
+http://103.214.202.218:8081/live/mytv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
 http://103.205.133.44:1935/live/masranga/playlist.m3u8
@@ -76,6 +76,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/1.m3u8?@IPTVSoltuion
 http://45.249.187.238:8081/hls/new8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA",BIJOY TV HD
+http://103.214.202.218:8081/live/bijoytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA",MOHONA TV HD
  
