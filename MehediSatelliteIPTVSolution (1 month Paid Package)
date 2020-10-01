@@ -857,10 +857,10 @@ https://live.cgtn.com/1000/prog_index.m3u8?@IPTVSolution
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?@IPTVSolution
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="Sports",IPL LIVE 1
-http://103.102.136.106:8080/cmcltv/gtv.m3u8
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="Sports",IPL LIVE 2
-http://103.205.133.44:1935/live/Gtv/playlist.m3u8
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",TITAS TV
 
