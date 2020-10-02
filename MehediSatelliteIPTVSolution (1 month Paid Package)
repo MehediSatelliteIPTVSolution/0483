@@ -858,7 +858,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="Sports",IPL LIVE 1
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
-
+#EXTINF:-1
+http://103.102.27.172:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="Sports",IPL LIVE 2
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
