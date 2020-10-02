@@ -136,7 +136,7 @@ http://45.249.187.238:8081/hls/new16.m3u8?@IPTVSoltuion
 http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="BANGLA ENT.",Star Jalsha
-
+http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="BANGLA ENT.",Star Jalsha
 http://ccntv.anytv.live:8080/star-jalsha/tracks-v1a1/mono.m3u8
