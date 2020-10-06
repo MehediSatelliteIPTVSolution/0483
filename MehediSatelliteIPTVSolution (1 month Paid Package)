@@ -249,8 +249,7 @@ http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIES",Sony Max HD
-#EXTINF:-1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8?@IPTVSoltuion
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX2
 http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6525?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
@@ -309,12 +308,14 @@ http://103.205.133.19/hls/wowcinema.m3u8?@IPTVSoltuion
 
 #EXTINF:0 group-title="HINDI MOVIES",Color Cineplex HD
 
+
+#EXTINF:0 group-title="HINDI MOVIES",B4U Movies
+http://anytv.live:8080/saiful/saiful/394
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/3RKYyYI.png"group-title="HINDI MOVIES",Manoranjan TV
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8?@IPTVSolution
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="HINDI MOVIES",Manoranjan Movies
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="HINDI MOVIES",LOTUS MACAU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="HINDI MOVIES",MBC Bollywood HD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8?@IPTVSoltion
@@ -454,7 +455,7 @@ https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=14186771
 #EXTINF:-1 group-title="ENGLISH ENT.",Zee Cafe HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="ENGLISH ENT.",Lutos Macau
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="ENGLISH ENT.",LOTUS MACAU
 http://45.249.187.238:8081/hls/new22.m3u8
 
 
@@ -550,8 +551,8 @@ http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids",Disney 
 http://45.249.187.238:8081/hls/live0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids",Disney 
-http://zer0live.hjkm.info:11990/neptune/disneychannelhindi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids",Disney Jr
+http://anytv.live:8080/saiful/saiful/368
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="Kids",Disney XD
 
@@ -583,11 +584,13 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 group-title=Kids",Pogo 
 http://45.249.187.238:8081/hls/new18.m3u8
 
+#EXTINF:-1 group-title=Kids",Hungama 
+http://anytv.live:8080/saiful/saiful/372
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids",Mr Bean Show
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",Cheebies Asia
-#EXTINF:-1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8?@IPTVSoltuion
+
 
 #EXTINF:0 group-title="Kids",EBC Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w168363901.m3u8
