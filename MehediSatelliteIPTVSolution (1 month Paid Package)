@@ -119,7 +119,7 @@ http://anytv.live:8080/saiful/saiful/282
 http://ccntv.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
-
+http://anytv.live:8080/saiful/saiful/338
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg"group-title="BANGLA ENT.",Enter 10 Bangla
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
@@ -158,6 +158,7 @@ http://pioneer.anytv.live:8080/starplus/tracks-v1a1/mono.m3u8
 http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_HD/tracks-v1a1/mono.m3u8?token=IPTVSolution 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="HINDI ENT.",STAR BHARAT
+http://anytv.live:8080/saiful/saiful/344
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="HINDI ENT.",ZEE TV
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/apacsea/index.m3u8
@@ -339,7 +340,7 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8?@IPTVSoltuion
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+http://anytv.live:8080/saiful/saiful/345
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
 
@@ -463,6 +464,7 @@ http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="MUSIC",Dhoom
+http://anytv.live:8080/saiful/saiful/360
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 http://172.20.1.1:8081/live/gaanbangla-21/chunks.m3u8
@@ -503,7 +505,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 http://45.249.187.238:8081/hls/new23.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9X Jhakaas
-
+http://anytv.live:8080/saiful/saiful/371
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
@@ -877,6 +879,7 @@ http://otv.ftpbd.net/streams/106/index.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
+http://anytv.live:8080/saiful/saiful/365
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
 
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
