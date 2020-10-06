@@ -89,11 +89,10 @@ http://45.249.187.238:8081/hls/new16.m3u8?@IPTVSoltuion
 https://tempe.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
-#EXTINF:-1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8?@IPTVSoltuion
+http://anytv.live:8080/saiful/saiful/361
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="BANGLA ENT.",Star Jalsha
-http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
+http://anytv.live:8080/saiful/saiful/381
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="BANGLA ENT.",Star Jalsha
 http://ccntv.anytv.live:8080/star-jalsha/tracks-v1a1/mono.m3u8
@@ -114,7 +113,7 @@ http://89.187.169.206:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/tracks-v1a1/mono.m3u8?t
  
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla HD
- 
+http://anytv.live:8080/saiful/saiful/282
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
 http://ccntv.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
@@ -191,7 +190,7 @@ http://45.249.187.238:8081/hls/tsl-4.m3u8?@IPTVSolution
 http://45.249.187.238:8081/hls/live2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.",COLORS HD
-http://198.255.87.59:8080/INDIA_HINDI/COLORS_HD/tracks-v1a1/mono.m3u8?token=test
+http://anytv.live:8080/saiful/saiful/289
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.",COLORS RISHTEY
 
@@ -237,8 +236,7 @@ http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA CINEMA",Jalsha Movies HD
-#EXTINF:-1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8?@IPTVSoltuion
+http://anytv.live:8080/saiful/saiful/283
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA CINEMA",Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@IPTVSoltuion
@@ -554,8 +552,7 @@ http://45.249.187.238:8081/hls/live0.m3u8
 http://zer0live.hjkm.info:11990/neptune/disneychannelhindi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="Kids",Disney XD
-#EXTINF:-1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",Cartoon Network
 http://45.249.187.238:8081/hls/new14.m3u8
@@ -568,7 +565,7 @@ http://live-ng-01.more.tv/hls/Cartoon_Network_HD/master.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Nick Sonic Bangla
-
+http://anytv.live:8080/saiful/saiful/383
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="Kids",,Nick JR.
 
