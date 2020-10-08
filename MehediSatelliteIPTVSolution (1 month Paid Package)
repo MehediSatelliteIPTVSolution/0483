@@ -691,7 +691,9 @@ http://198.255.87.59:8080/INDIA_ENGLISH/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Documentary",History TV HD
-http://103.214.202.218:8081/live/history/chunks.m3u8
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/454-4544327_logo-canal-history-2-hd-png-download.png" group-title="Documentary",History 2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Documentary",History TV HD
 
@@ -817,18 +819,12 @@ http://103.84.253.5/live/fastfeed1002/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
 http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:-0
-
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
-http://103.84.253.5/live/fastfeed1001/index.m3u8
+http://103.214.202.218:8081/live/select2/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
-#EXTINF:-1
-http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=IPTVSolution
-#EXTINF:-0
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
