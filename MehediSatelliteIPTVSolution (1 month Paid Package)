@@ -882,6 +882,9 @@ http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png" group-title="Sports",BEIN SPORT HD 1
+http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png" group-title="Sports",BEIN SPORT HD 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png "group-title="Sports",BEIN SPORT HD 2
