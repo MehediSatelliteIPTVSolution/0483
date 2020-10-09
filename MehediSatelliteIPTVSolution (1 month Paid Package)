@@ -125,6 +125,9 @@ http://ccntv.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
 http://anytv.live:8080/saiful/saiful/338
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
+http://otv.ftpbd.net/streams/127/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg"group-title="BANGLA ENT.",Enter 10 Bangla
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
 
@@ -339,7 +342,7 @@ http://45.249.187.238:8081/hls/tsl-8.m3u8
 http://anytv.live:8080/saiful/saiful/345
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
-
+http://otv.ftpbd.net/streams/125/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -547,8 +550,8 @@ http://anytv.live:8080/saiful/saiful/368
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",Cartoon Network
 http://45.249.187.238:8081/hls/new14.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",CN HD+
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",CN
+http://otv.ftpbd.net/streams/123/index.m3u8
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nickelodeon 
 
@@ -784,6 +787,7 @@ http://45.249.187.238:8081/hls/new1.m3u8
 http://103.84.253.5/live/fastfeed1002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
+http://otv.ftpbd.net/streams/116/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
 http://45.249.187.238:8081/hls/new2.m3u8
@@ -793,6 +797,7 @@ http://103.214.202.218:8081/live/select2/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
+http://otv.ftpbd.net/streams/114/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
