@@ -796,7 +796,7 @@ http://otv.ftpbd.net/streams/116/index.m3u8
 http://45.249.187.238:8081/hls/new2.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
-http://otv.ftpbd.net/streams/105/index.m3u8
+http://otv.ftpbd.net/streams/113/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
 http://103.214.202.218:8081/live/select2/chunks.m3u8
@@ -827,9 +827,6 @@ http://172.20.1.1:8081/live/ten2hd/chunks.m3u8
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
-http://otv.ftpbd.net/streams/117/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
 https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
@@ -845,12 +842,9 @@ http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN
 
 
-#EXTINF:-1 group-title="Sports",D sports
-#EXTINF:-1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8?@IPTVSoltuion
-
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
 http://anytv.live:8080/saiful/saiful/365
+#EXTINF:1
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
 
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
