@@ -232,12 +232,19 @@ http://45.249.187.238:8081/hls/tsl-7.m3u8
 http://otv.ftpbd.net/streams/115/index.m3u8
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA CINEMA",Jalsha Movies HD
-
+http://103.115.159.38:8080/live/saiful/saiful/283.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA CINEMA",Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES",Sony Max
+http://106.0.54.6:8080/hls/tcm_sonymax_cm_ip.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",Sony Max
+http://103.70.140.27:8080/hls/tcm_sonymax_cm_ip.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",Sony Max
+https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",Sony Max
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
