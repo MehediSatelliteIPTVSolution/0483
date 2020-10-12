@@ -12,7 +12,7 @@ https://ott.bingebd.com/live/ngrp:btv_world_all/chunklist_b2128000.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
 https://ott.bingebd.com/live/ngrp:atn_bangla_all/chunklist_b2128000.m3u8
-
+#EXTINF:1
 http://172.20.1.1:8081/live/atnbangla/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
@@ -46,7 +46,7 @@ http://103.214.202.218:8081/live/rtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 https://ott.bingebd.com/live/ngrp:boishakhi_tv_all/chunklist_b4536744.m3u8
-
+#EXTINF:1
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
@@ -54,7 +54,7 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 https://ott.bingebd.com/live/ngrp:bangla_vision_all/chunklist_b6803851.m3u8
-
+#EXTINF:1
 http://103.214.202.218:8081/live/banglavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
