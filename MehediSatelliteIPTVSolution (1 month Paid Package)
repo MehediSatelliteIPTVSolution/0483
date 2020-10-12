@@ -40,15 +40,20 @@ https://ott.bingebd.com:443/live/ngrp:ntv_all/chunklist_b6647521.m3u8
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?@IPTVSolution
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
+https://ott.bingebd.com:443/live/ngrp:rtv_all/chunklist_b5464165.m3u8
+
 http://103.214.202.218:8081/live/rtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
+https://ott.bingebd.com:443/live/ngrp:boishakhi_tv_all/chunklist_b4536744.m3u8
+
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8?token=IPTVSolution 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
+
 http://103.214.202.218:8081/live/banglavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
@@ -94,6 +99,8 @@ http://103.102.136.106:8080/cmcltv/channel9.m3u8
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
+https://ott.bingebd.com:443/live/ngrp:gazi_tv_all/chunklist_b2128000.m3u8
+
 http://otv.ftpbd.net/streams/108/index.m3u8
 
 
@@ -106,6 +113,9 @@ http://45.249.187.238:8081/hls/new16.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
+https://ott.bingebd.com:443/live/ngrp:bangla_tv_all/chunklist_b2128000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
 http://anytv.live:8080/saiful/saiful/361
