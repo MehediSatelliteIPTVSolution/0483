@@ -161,30 +161,29 @@ http://global.thunderbd.com/38/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.",ZEE TV HD
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="HINDI ENT.",Sony
+http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
-http://172.20.1.1:8081/live/sony-40/chunks.m3u8?@IPTVSoltuion
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
-http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8?@IPTVSoltuion
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="HINDI ENT.",Sony HD
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
 
 
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.",Sony SAB FHD
-
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.",COLORS
 http://global.thunderbd.com/68/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.",COLORS HD
-
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.",COLORS HD
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.",COLORS RISHTEY
-
+http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
 http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
