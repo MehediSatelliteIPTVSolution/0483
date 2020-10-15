@@ -88,43 +88,36 @@ http://anytv.live:8080/saiful/saiful/361
 http://103.70.140.27:8080/hls/tcm_starjalsha_cm_ip.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA ENT.",Star Jalsha
-http://global.thunderbd.com/36/tracks-v1a1/mono.m3u8
-#EXTINF:-1
-http://ccntv.anytv.live:8080/star-jalsha/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
-http://anytv.live:8080/saiful/saiful/381
+http://global.thunderbd.com/36/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla SD
 http://global.thunderbd.com/34/tracks-v1a1/mono.m3u8
-#EXTINF:-1
-http://ccntv.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla HD
 http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla
-http://anytv.live:8080/saiful/saiful/282
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla HD
 http://global.thunderbd.com/43/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
-http://ccntv.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
-http://anytv.live:8080/saiful/saiful/338
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
 http://otv.ftpbd.net/streams/127/index.m3u8
@@ -152,16 +145,13 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #EXTINF:-1 tvg-logo="https://itel.tv/itelmeta/images/channel_logo/MADINA-TV.jpg" group-title="ISLAM",IQRA MADANI FHD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
-http://anytv.live:8080/saiful/saiful/346
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
 http://global.thunderbd.com/67/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD 
 http://global.thunderbd.com/38/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="HINDI ENT.",STAR BHARAT
-http://anytv.live:8080/saiful/saiful/344
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="HINDI ENT.",STAR BHARAT
 
@@ -188,7 +178,7 @@ http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8?@IPTVSoltuion
 http://global.thunderbd.com/68/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.",COLORS HD
-http://anytv.live:8080/saiful/saiful/289
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.",COLORS HD
 
@@ -309,7 +299,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicsh
 
 
 #EXTINF:0 group-title="HINDI MOVIES",B4U Movies
-http://anytv.live:8080/saiful/saiful/394
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3RKYyYI.png"group-title="HINDI MOVIES",Manoranjan TV
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8?@IPTVSolution
@@ -340,7 +330,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?@IPTVSolu
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
-http://anytv.live:8080/saiful/saiful/345
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
 http://otv.ftpbd.net/streams/125/index.m3u8
@@ -462,7 +452,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafeh
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="MUSIC",Dhoom
-http://anytv.live:8080/saiful/saiful/360
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 http://172.20.1.1:8081/live/gaanbangla-21/chunks.m3u8
@@ -490,7 +480,7 @@ http://172.20.1.1:8081/live/gaanbangla-21/chunks.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9X Jhakaas
-http://anytv.live:8080/saiful/saiful/371
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
@@ -529,7 +519,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids",Disney Jr
-http://anytv.live:8080/saiful/saiful/368
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids",Disney HD
 http://otv.ftpbd.net/streams/122/index.m3u8
@@ -566,7 +556,7 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 
 
 #EXTINF:-1 group-title=Kids",Hungama 
-http://anytv.live:8080/saiful/saiful/372
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids",Mr Bean Show
 
@@ -831,8 +821,6 @@ http://otv.ftpbd.net/streams/106/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
-http://anytv.live:8080/saiful/saiful/365
-#EXTINF:1
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
 
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
