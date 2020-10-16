@@ -813,7 +813,7 @@ http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 group-title="Sports", DD SPORTS 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN
-
+http://gma2.blab.email/espn2.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
