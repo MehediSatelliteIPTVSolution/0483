@@ -322,7 +322,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?@IPTVSolu
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
-
+http://criclive.sonarbanglatv.com:8081/livetv/starmovies/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
 http://otv.ftpbd.net/streams/125/index.m3u8
