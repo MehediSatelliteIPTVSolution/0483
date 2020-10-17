@@ -770,7 +770,7 @@ http://otv.ftpbd.net/streams/116/index.m3u8
 http://113.212.111.246:8080/hls/col31.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
-
+http://103.211.185.98:8082/27/index.m3u8?token=ec83da2392893ac27a07e1e69b32ca0e3694f3ff-8de3ef64bf84f06da3d36f76b08b4d2b-1602929723-1602918923&remote=103.143.35.226
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
@@ -782,25 +782,25 @@ http://otv.ftpbd.net/streams/114/index.m3u8
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
-
+http://103.211.185.98:8082/20/index.m3u8?token=466adfe9f289bdbbb6e14ba65d1fe05a1c1bedd2-8abe327a64b3ed4be8128115916e799a-1602927506-1602916706&remote=103.143.35.236
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
 https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2
-
+http://103.211.185.98:8082/21/index.m3u8?token=162c270fe96b09ae8eb6fe55ef073c4a114b317a-b9dfaa284cc94f64de44c475ff7b19c8-1602929492-1602918692&remote=103.143.35.226
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2
 http://otv.ftpbd.net/streams/112/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
-
+https://ott.bingebd.com/live/ngrp:makn-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort_621h_wrwtyoq_en126_stream_sony_ten_3tywer_921Q80_sjdfh_uiou_f36erxty_fort63_tar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
 https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
-
+https://ott.bingebd.com/live/ngrp:makn-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort_621h_wrwtyoq_en126_stream_sony_sixtywer_921Q80_sjdfh_uiou_f36erxty_fort63_tar/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
