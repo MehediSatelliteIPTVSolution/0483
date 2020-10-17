@@ -159,7 +159,7 @@ http://global.thunderbd.com/38/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.",ZEE TV HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="HINDI ENT.",Sony
-http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
+http://103.211.185.98:8082/38/index.m3u8?token=d24e06055cabfe089aa88f2f8f50f654ee70d832-2aac9e894b1e47d0d62e599ca1ec144d-1602931753-1602920953&remote=103.143.35.226
 
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="HINDI ENT.",Sony HD
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
