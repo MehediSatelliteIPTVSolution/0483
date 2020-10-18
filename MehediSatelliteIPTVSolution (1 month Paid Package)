@@ -146,9 +146,6 @@ http://global.thunderbd.com/67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD 
 http://global.thunderbd.com/38/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD 
-https://ott.bingebd.com/live/ngrp:makn-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort_621h_wrwtyoq_en126_stream_star_plus_hdtywer_921Q80_sjdfh_uiou_f36erxty_fort63_tar/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="HINDI ENT.",STAR BHARAT
 
 
@@ -762,6 +759,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1
+http://global.thunderbd.com/25/tracks-v1a1/mono.m3u8
+#EXTINF:-1
 http://otv.ftpbd.net/streams/104/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1 HD
@@ -770,41 +769,38 @@ http://113.212.111.246:8080/hls/col30.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
 http://otv.ftpbd.net/streams/116/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
+http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
+
 #EXTINF:-0 group-title="Sports",Star Sports 3
-http://113.212.111.246:8080/hls/col31.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
-http://103.211.185.98:8082/27/index.m3u8?token=ec83da2392893ac27a07e1e69b32ca0e3694f3ff-8de3ef64bf84f06da3d36f76b08b4d2b-1602929723-1602918923&remote=103.143.35.226
+http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
+http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
+#EXTINF:-01
 http://otv.ftpbd.net/streams/114/index.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
+http://113.212.111.246:8080/hls/col31.m3u8
+#EXTINF:-0
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
-https://ott.bingebd.com/live/ngrp:makn-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort_621h_wrwtyoq_en126_stream_sony_ten_1tywer_921Q80_sjdfh_uiou_f36erxty_fort63_tar/playlist.m3u8
+http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
-https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 2
+http://global.thunderbd.com/21/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2
-https://ott.bingebd.com/live/ngrp:makn-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort_621h_wrwtyoq_en126_stream_sony_ten_2tywer_921Q80_sjdfh_uiou_f36erxty_fort63_tar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 3
+http://global.thunderbd.com/22/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2
-http://otv.ftpbd.net/streams/112/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
-https://ott.bingebd.com/live/ngrp:makn-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort_621h_wrwtyoq_en126_stream_sony_ten_3tywer_921Q80_sjdfh_uiou_f36erxty_fort63_tar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
-https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
-https://ott.bingebd.com/live/ngrp:makn-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort_621h_wrwtyoq_en126_stream_sony_sixtywer_921Q80_sjdfh_uiou_f36erxty_fort63_tar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony Six
+http://global.thunderbd.com/24/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
@@ -823,10 +819,10 @@ http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png" group-title="Sports",BEIN SPORT HD 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png "group-title="Sports",BEIN SPORT HD 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",Bein Sports Xtra
 
