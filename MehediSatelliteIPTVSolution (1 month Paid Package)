@@ -754,7 +754,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",TITAS TV
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Fq3x25a.png" group-title="Sports",Star Sports 1 Hindi
 
@@ -824,16 +824,40 @@ http://103.102.136.106:8080/cmcltv/tcm_sonysix.m3u8
 http://gma2.blab.email/espn2.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
+
 
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png" group-title="Sports",BEIN SPORT HD 1
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 1
+http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 2
+http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png "group-title="Sports",BEIN SPORT HD 2
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 3
+http://cdn1.52dvb.xyz:80/5002/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 4
+http://cdn1.52dvb.xyz:80/5003/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 5
+http://cdn1.52dvb.xyz:80/5004/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 6
+http://cdn1.52dvb.xyz:80/5005/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 7
+http://cdn1.52dvb.xyz:80/5006/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 8
+http://cdn1.52dvb.xyz:80/5007/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 9
+http://cdn1.52dvb.xyz:80/5008/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",Bein Sports 10
+http://cdn1.52dvb.xyz:80/5009/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports",Bein Sports Xtra
 
