@@ -894,6 +894,12 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 1
 http://103.194.171.164/hls/bt1.m3u8
 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/mOkpenX.png",Adjarasport 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby:ahlakid.com
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/mOkpenX.png",Adjarasport 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby:ahlakid.com
+
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 
