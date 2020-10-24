@@ -888,8 +888,8 @@ http://ott-cdn.ucom.am/s82/04.m3u8?@IPTVSolution
 #EXTINF:0 group-title="Sports",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",ADS Sports
-
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 1
+http://103.194.171.164/hls/bt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
