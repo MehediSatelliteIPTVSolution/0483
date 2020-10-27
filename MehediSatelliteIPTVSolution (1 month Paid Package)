@@ -632,10 +632,6 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="NEWS",ATN News HD
 
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="NEWS",DBC News HD
-http://global.thunderbd.com/7/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="NEWS",DBC News HD
 http://172.20.1.1:8081/live/dbc/chunks.m3u8
 
@@ -645,15 +641,17 @@ http://103.102.136.106:8080/cmcltv/ekator.m3u8
 
 
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24 HD
-http://global.thunderbd.com/5/tracks-v1a1/mono.m3u8
+http://172.20.1.1:8081/live/channel24/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="NEWS",Independent FHD
-http://global.thunderbd.com/12/tracks-v1a1/mono.m3u8
+http://172.20.1.1:8081/live/independent/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="NEWS",Somoy TV FHD
-http://global.thunderbd.com/17/tracks-v1a1/mono.m3u8
+http://172.20.1.1:8081/live/somoy/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
+http://172.20.1.1:8081/live/jamuna/chunks.m3u8
+#EXTINF:-
 http://global.thunderbd.com/13/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="NEWS",NEWS 24 FHD
