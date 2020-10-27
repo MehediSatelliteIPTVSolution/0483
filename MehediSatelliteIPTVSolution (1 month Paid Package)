@@ -743,10 +743,7 @@ http://113.212.111.246:8080/hls/col30.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/25/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
-
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
-
+http://172.20.1.1:8081/live/starsports2/chunks.m3u8
 
 #EXTINF:-0 group-title="Sports",Star Sports 3
 
@@ -764,6 +761,8 @@ http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
 http://172.20.1.1:8081/live/select2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
+http://172.20.1.1:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1
 http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
@@ -773,9 +772,14 @@ https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
+http://172.20.1.1:8081/live/ten2hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
 https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
+http://172.20.1.1:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-
 http://global.thunderbd.com/22/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
