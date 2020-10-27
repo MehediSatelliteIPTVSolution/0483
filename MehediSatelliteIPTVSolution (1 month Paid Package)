@@ -101,13 +101,16 @@ http://172.20.1.1:8081/live/banglatv-19/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA ENT.",Star Jalsha
-
+http://172.20.1.1:8081/live/starjalsha/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 http://global.thunderbd.com/36/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla SD
+http://172.20.1.1:8081/live/zeebanglahd-25/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla SD
 http://global.thunderbd.com/34/tracks-v1a1/mono.m3u8
@@ -176,6 +179,7 @@ http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="HINDI ENT.",Sony
+http://172.20.1.1:8081/live/sony-40/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="HINDI ENT.",Sony HD
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
