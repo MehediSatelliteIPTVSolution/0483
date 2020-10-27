@@ -76,7 +76,7 @@ http://global.thunderbd.com/4/tracks-v1a1/mono.m3u8
 http://global.thunderbd.com/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
-
+http://172.20.1.1:8081/live/gazi-bd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
 http://172.20.1.1:8081/live/nagorik/chunks.m3u8
@@ -761,7 +761,7 @@ http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
-
+http://172.20.1.1:8081/live/select2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
 http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
