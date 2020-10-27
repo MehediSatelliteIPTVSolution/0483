@@ -11,6 +11,7 @@ http://113.212.111.246:8080/hls/col31.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
 http://global.thunderbd.com/6/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1
@@ -636,8 +637,6 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 http://172.20.1.1:8081/live/dbc/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
-http://103.102.136.106:8080/cmcltv/ekator.m3u8
-
 
 
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24 HD
