@@ -31,6 +31,7 @@ http://172.20.1.1:8081/live/rtv/chunks.m3u8
 http://global.thunderbd.com/14/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
+http://172.20.1.1:8081/live/boishakhi-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 http://172.20.1.1:8081/live/banglavision/chunks.m3u8
@@ -51,7 +52,7 @@ http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA",MOHONA TV HD
-
+http://172.20.1.1:8081/live/mohona/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA",ASIAN TV HD
 
@@ -77,6 +78,8 @@ http://global.thunderbd.com/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
 
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
+http://172.20.1.1:8081/live/nagorik/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
 http://global.thunderbd.com/59/tracks-v1a1/mono.m3u8
@@ -86,7 +89,7 @@ http://global.thunderbd.com/16/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
-
+http://172.20.1.1:8081/live/banglatv-19/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
 
@@ -899,94 +902,4 @@ http://ott-cdn.ucom.am/s82/04.m3u8?@IPTVSolution
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 1
-http://103.194.171.164/hls/bt1.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/mOkpenX.png",Adjarasport 1
-https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby:ahlakid.com
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/mOkpenX.png",Adjarasport 2
-https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby:ahlakid.com
-
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 4
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports", Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?
-
-#EXTINF:-1 , tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports", Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120934.jpg" group-title="Sports", Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120935.jpg" group-title="Sports", Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120936.png" group-title="Sports", Dubai Sports 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
-
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120937.jpg" group-title="Sports", Dubai Sports 3
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
-
-
-
-
-
-#EXTINF: -1 group-title="RADIO",Radio Foorti (88.0)
-http://119.148.23.88:1021/;?@IPTVSoltuion
-
-#EXTINF: -1 group-title="RADIO",ABC Radio(89.2)
-http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
-
-#EXTINF: -1 group-title="RADIO",Radio Today(89.6)
-http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
-
-#EXTINF: -1 group-title="RADIO",Dhaka FM (90.4)
-http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
-
-#EXTINF: -1 group-title="RADIO",Dhoni FM (91.2)
-http://182.160.110.180:1020/;stream.mp3?@IPTVSoltuion
-
-#EXTINF: -1 group-title="RADIO",Radio Capital (94.8)
-http://str.radiocapital.fm:8000/stream
-
-#EXTINF: -1 group-title="RADIO",Radio Ekattor (98.4)
-http://162.254.149.187:9302/;stream/1;
-
-#EXTINF: -1 group-title="RADIO",Radio Amber(102.4)
-http://118.179.215.45:8000/;
-
-#EXTINF: -1 group-title="RADIO",Radio Goongoon
-http://live.radiogoongoon.com:8888/stream/1/
-
-#EXTINF: -1 group-title="RADIO",Bangladesh Betar Dhaka
-http://as3.digitalsynapsebd.com:8263/;stream.mp3
-
-#EXTINF: -1 group-title="RADIO",Bangladesh Betar Chattogram
-http://as2.digitalsynapsebd.com:9236/;stream.mp3
-
-#EXTINF: -1 group-title="RADIO",Bangladesh Betar Khulna 
-http://as2.digitalsynapsebd.com:9252/;stream.mp3
+http://103.194.1
