@@ -770,10 +770,14 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 http://global.thunderbd.com/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live 2
+#EXTINF:-1
 http://172.20.1.1:8081/live/starsports1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live 3
+#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live 
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",English Premier League Live 
+http://dx4.gcdn.co/UKS1762/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",TITAS TV
 
