@@ -714,6 +714,7 @@ http://172.20.1.1:8081/live/independent/chunks.m3u8
 http://172.20.1.1:8081/live/somoy/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/8.m3u8
 #EXTINF:-1
 http://172.20.1.1:8081/live/jamuna/chunks.m3u8
 #EXTINF:-
