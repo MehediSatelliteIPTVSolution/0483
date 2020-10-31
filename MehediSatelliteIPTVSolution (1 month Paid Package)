@@ -869,6 +869,7 @@ http://172.20.1.1:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1
 http://113.212.111.246:8080/hls/col30.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
+http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
 #EXTINF:-1
 http://172.20.1.1:8081/live/starsports2/chunks.m3u8
 
@@ -902,6 +903,7 @@ https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
+http://global.thunderbd.com/21/tracks-v1a1/mono.m3u8
 #EXTINF:-1
 http://172.20.1.1:8081/live/ten2hd/chunks.m3u8
 
