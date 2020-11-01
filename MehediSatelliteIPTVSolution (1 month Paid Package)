@@ -269,6 +269,7 @@ http://95.111.250.189:25461/live/OrangeTV/rony/6542.m3u8
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies
+http://otv.ftpbd.net/streams/115/index.m3u8
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA CINEMA",Jalsha Movies HD
 
@@ -691,7 +692,7 @@ http://global.thunderbd.com/35/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
- 
+http://otv.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary ",NAT GEO Abu-Dhabi HD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
@@ -854,8 +855,9 @@ http://172.20.1.1:8081/live/starsports2/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
 http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
 http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
