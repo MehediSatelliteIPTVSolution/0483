@@ -157,7 +157,7 @@ http://95.111.250.189:25461/live/OrangeTV/rony/10601.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
-http://otv.ftpbd.net/streams/1023/index.m3u8
+http://otv.ftpbd.net/streams/127/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg"group-title="BANGLA ENT.",Enter 10 Bangla
 #EXTINF:-1
