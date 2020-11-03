@@ -782,11 +782,17 @@ http://172.20.1.1:8081/live/starsports1/chunks.m3u8
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live 
+https://dx4.gcdn.co/UK1303/tracks-v1a1/mono.m3u8
 #EXTINF:-1
 http://bdiptv.myftp.biz:25461/live/OrangeTV/rony/11617.m3u8
 
 #EXTINF:-1 group-title="Sports",English Premier League Live 
-http://dx4.gcdn.co/UKS1762/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sky Sports
+https://dx4.gcdn.co/UK1305/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",Sky Sports 
+https://dx4.gcdn.co/UK1308/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",TITAS TV
 
