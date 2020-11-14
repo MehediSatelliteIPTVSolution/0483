@@ -80,6 +80,7 @@ http://172.20.1.1:8081/live/deepto/playlist.m3u8
 http://global.thunderbd.com/4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
+http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/1/tracks-v1a1/mono.m3u8
 
@@ -777,20 +778,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:0 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="NEWS",PTV News
 
 
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live 
-#EXTINF:-1
-http://global.thunderbd.com/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live 
-http://172.20.1.1:8081/live/starsports1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live 
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Sports",IPL Live 
+#EXTINF:-1 group-title="Sports",Sky Sports
 https://dx4.gcdn.co/UK1303/tracks-v1a1/mono.m3u8
-#EXTINF:-1
-http://bdiptv.myftp.biz:25461/live/OrangeTV/rony/11617.m3u8
 
 #EXTINF:-1 group-title="Sports",English Premier League Live 
 
