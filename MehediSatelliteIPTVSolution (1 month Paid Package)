@@ -12,6 +12,7 @@ http://113.212.111.246:8080/hls/col31.m3u8
 http://172.20.1.1:8081/live/atnbangla/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
+#EXTINF:-0
 http://global.thunderbd.com/6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
@@ -43,6 +44,7 @@ http://172.20.1.1:8081/live/boishakhi-bd/chunks.m3u8
 http://172.20.1.1:8081/live/banglavision/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BANGLA",DESH TV HD
+#EXTINF:-1
 http://global.thunderbd.com/9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
@@ -70,6 +72,7 @@ http://global.thunderbd.com/15/tracks-v1a1/mono.m3u8
 http://172.20.1.1:8081/live/satv-22/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
+#EXTINF:-1
 http://global.thunderbd.com/8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
