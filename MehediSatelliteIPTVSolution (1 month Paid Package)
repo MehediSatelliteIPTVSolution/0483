@@ -192,10 +192,12 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #EXTINF:-1 tvg-logo="https://itel.tv/itelmeta/images/channel_logo/MADINA-TV.jpg" group-title="ISLAM",IQRA MADANI FHD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_star_plusTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/67/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD 
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_star_plus_hdTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/38/tracks-v1a1/mono.m3u8
 
@@ -204,9 +206,7 @@ http://global.thunderbd.com/38/tracks-v1a1/mono.m3u8
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="HINDI ENT.",STAR BHARAT
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="HINDI ENT.",STAR BHARAT
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_star_bharatTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="HINDI ENT.",ZEE TV
 
@@ -215,8 +215,6 @@ http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.",ZEE TV HD
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.",ZEE TV HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="HINDI ENT.",Sony
 http://172.20.1.1:8081/live/sony-40/chunks.m3u8
@@ -242,6 +240,7 @@ http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.",COLORS RISHTEY
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_and_tvTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
 
@@ -279,7 +278,7 @@ https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIES",Sony Max HD
-
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_sony_maxTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 
@@ -291,7 +290,7 @@ https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
-
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_star_goldTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
@@ -329,6 +328,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 http://210.210.155.35/session/c2dff430-f786-11ea-8442-ae06b0bdb327/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="HINDI MOVIES",And Picture 
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_and_pictureTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI ENT.",And Picture HD
 
@@ -380,9 +380,6 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8?@IPTVSoltuion
 http://otv.ftpbd.net/streams/125/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now
@@ -442,6 +439,7 @@ http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH MOVIES",& Flix HD 
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ENGLISH MOVIES",Sony Pix
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_sony_pixTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/41/tracks-v1a1/mono.m3u8
 
@@ -454,7 +452,6 @@ http://global.thunderbd.com/41/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="ENGLISH ENT.",STAR WORLD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH ENT.",Comedy Central
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH ENT.",Comedy Central HD
 
@@ -493,9 +490,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
-
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_gaan_banglaTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_sangeet_banglaTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/96/tracks-v1a1/mono.m3u8
 
@@ -506,6 +504,7 @@ http://global.thunderbd.com/96/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="MUSIC",Zoom
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_zoomTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 #EXTINF:-0
 http://global.thunderbd.com/60/tracks-v1a1/mono.m3u8
 
@@ -560,6 +559,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Kids",DURONTO TV
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr34r-lk6y-dkf-5s4AJS-ort_159e_jRE357hKH_AZLY7532_duronto_tvTRGX_9ty215SDE_s93IYLKH_prot_w26ekhfh_port51_DH/playlist.m3u8
 #EXTINF:-0
 http://global.thunderbd.com/10/tracks-v1a1/mono.m3u8
 
