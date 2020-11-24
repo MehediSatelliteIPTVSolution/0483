@@ -9,9 +9,13 @@ http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA",BTV WORLD
 
 #EXTINF:-0 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
+http://163.172.29.246:8081/globalbd/atnbangla/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
 http://172.20.1.1:8081/live/atnbangla/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
+http://163.172.29.246:8081/globalbd/channeli/chunks.m3u8
 #EXTINF:-0
 http://global.thunderbd.com/6/tracks-v1a1/mono.m3u8
 
@@ -28,10 +32,14 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
 http://172.20.1.1:8081/live/ntv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
+http://163.172.29.246:8081/globalbd/ntv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
 http://172.20.1.1:8081/live/rtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
+http://163.172.29.246:8081/globalbd/rtv/chunks.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/14/tracks-v1a1/mono.m3u8
 
@@ -812,7 +820,7 @@ https://rhridoy136.shortcm.li/bangabondhut20backup8.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",TITAS TV
-
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Fq3x25a.png" group-title="Sports",Star Sports 1 Hindi
 
