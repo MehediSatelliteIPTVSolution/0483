@@ -866,22 +866,10 @@ http://172.20.1.1:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
-https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-
-#EXTINF:-1
-http://global.thunderbd.com/21/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
 http://172.20.1.1:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
 http://172.20.1.1:8081/live/ten3hd/chunks.m3u8
