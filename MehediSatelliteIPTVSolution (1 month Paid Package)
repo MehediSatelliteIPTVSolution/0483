@@ -863,6 +863,9 @@ http://172.20.1.1:8081/live/select2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
 http://172.20.1.1:8081/live/ten1hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
+http://tv-cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
 
@@ -870,6 +873,7 @@ http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
 http://172.20.1.1:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
+http://tv-cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
 http://172.20.1.1:8081/live/ten3hd/chunks.m3u8
