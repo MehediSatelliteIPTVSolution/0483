@@ -818,7 +818,7 @@ https://rhridoy136.shortcm.li/bangabondhut20backup8.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",TITAS TV
-
+http://tv-cdn.ihub.live:8080/BangabandhuT20Cup/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Fq3x25a.png" group-title="Sports",Star Sports 1 Hindi
 
@@ -877,7 +877,7 @@ http://172.20.1.1:8081/live/ten3hd/chunks.m3u8
 http://global.thunderbd.com/22/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
-
+http://tv-cdn.ihub.live:8080/SonySixHD/index.m3u8
 #EXTINF:-1
 http://global.thunderbd.com/24/tracks-v1a1/mono.m3u8
 
