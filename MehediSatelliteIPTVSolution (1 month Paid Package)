@@ -237,7 +237,7 @@ http://172.20.1.1:8081/live/sony-40/chunks.m3u8
 http://otv.ftpbd.net/streams/115/index.m3u8
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA CINEMA",Jalsha Movies HD
-
+http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA CINEMA",Zee Bangla Cinema
 
