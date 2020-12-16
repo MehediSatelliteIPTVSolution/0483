@@ -456,12 +456,8 @@ https://ccntv.anytv.live/dhoom/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 
-
-#EXTINF:-0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
-
-
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
-
+http://bdixtv.live:8081/live/sangeetbangla/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
 
@@ -575,7 +571,7 @@ https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8?@IPTVSolution
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8?@IPTVSolution
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD ENGLISH 
-
+http://172.20.1.1:8081/live/discovery-12/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",Discovery ASIA
 
