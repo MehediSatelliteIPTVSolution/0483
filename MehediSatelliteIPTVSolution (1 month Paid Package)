@@ -202,10 +202,10 @@ http://103.146.55.212:8088/starbharat/tracks-v1a1/mono.m3u8
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="HINDI ENT.",ZEE TV
-
+http://103.146.55.212:8088/zeetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.",ZEE TV HD
-
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="HINDI ENT.",Sony
 http://172.20.1.1:8081/live/sony-40/chunks.m3u8
