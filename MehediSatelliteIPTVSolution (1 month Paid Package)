@@ -125,10 +125,10 @@ http://172.20.1.1:8081/live/banglatv-19/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="BANGLA ENT.",Ruposhi Bangla
-
+http://45.127.244.7:8080/hls/channel14.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA ENT.",Star Jalsha
-
+http://45.127.244.7:8080/hls/channel12.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA ENT.",Star Jalsha
 http://172.20.1.1:8081/live/starjalsha/chunks.m3u8
@@ -234,9 +234,10 @@ http://172.20.1.1:8081/live/sony-40/chunks.m3u8
 http://otv.ftpbd.net/streams/115/index.m3u8
 
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA CINEMA",Jalsha Movies HD
-http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
+http://45.127.244.7:8080/hls/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA CINEMA",Zee Bangla Cinema
+http://45.127.244.7:8080/hls/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA CINEMA",Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@IPTVSoltuion
@@ -456,6 +457,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://ccntv.anytv.live/dhoom/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
+http://45.127.244.7:8080/hls/channel16.m3u8
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
 http://bdixtv.live:8081/live/sangeetbangla/playlist.m3u8
