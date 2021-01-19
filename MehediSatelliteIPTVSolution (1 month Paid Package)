@@ -741,7 +741,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",TITAS TV
-#EXTINF:-1 tvg-logo="http://tv.bdtype.com/uploads/system_logo/logo_5e585fdd7e1b2.png?1611073615" group-title="Sports",T Sports 
+#EXTINF:-1 tvg-logo="http://ihub.live/live-tv/tsports.html" group-title="Sports",T Sports 
 http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:-1
 http://45.127.244.7:8080/hls/channel2.m3u8
